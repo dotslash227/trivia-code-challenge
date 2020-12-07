@@ -76,4 +76,3 @@ Sample returned json:
 - Displays a list of the questions and whether the answer was correct or not
 - PLAY AGAIN starts over and navigates to the Home Screen
 ---
-© 2018 G2i Inc.  All rights reserved.  Certain information contained herein is derived from information which is protected by copyrights held by G2i Inc. This code challenge, including any parts of it, cannot be duplicated, distributed, copied, modified, used to make a derivative work or used in any way without the prior written consent of G2i Inc.
